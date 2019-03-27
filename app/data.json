@@ -1,0 +1,37 @@
+{
+    "1": {
+        "symbol": "GOOGL",
+        "name": "Google",
+        "price": "1007.7",
+        "dividend_yield": "0",
+        "earning_share": "22.27"
+    },
+    "2": {
+        "symbol": "MSFT",
+        "name": "Microsoft",
+        "price": "85.01",
+        "dividend_yield": "1.874",
+        "earning_share": "2.97"
+    },
+    "3": {
+        "symbol": "MSI",
+        "name": "Motorola",
+        "price": "98.74",
+        "dividend_yield": "2.0266",
+        "earning_share": "-1.08"
+    },
+    "4": {
+        "symbol": "NFLX",
+        "name": "Netfilx",
+        "price": "250.1",
+        "dividend_yield": "0",
+        "earning_share": "1.25"
+    },
+    "5": {
+        "symbol": "NKE",
+        "name": "Nike",
+        "price": "62.59",
+        "dividend_yield": "1.2189548",
+        "earning_share": "2.51"
+    }
+}
