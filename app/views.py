@@ -245,3 +245,8 @@ def stock_search(request):
                 
     else:
         return render(request,'app/app_templates/search_stocks.html',{})
+
+def stock_analysis_view(request):
+    if request.method == "POST":
+        symbol = request.POST.get('symbol')
+        
